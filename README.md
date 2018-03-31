@@ -1,1 +1,1 @@
-# UBCx-HtC1x
+# University of British Columbia - HtC1x (How to Code: Simple Data)
